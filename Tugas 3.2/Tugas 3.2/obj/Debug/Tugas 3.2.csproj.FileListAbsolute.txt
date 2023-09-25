@@ -1,0 +1,10 @@
+E:\4805\p3\Tugas 3.2\Tugas 3.2\bin\Debug\Tugas 3.2.exe.config
+E:\4805\p3\Tugas 3.2\Tugas 3.2\bin\Debug\Tugas 3.2.exe
+E:\4805\p3\Tugas 3.2\Tugas 3.2\bin\Debug\Tugas 3.2.pdb
+E:\4805\p3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas 3.2.csprojAssemblyReference.cache
+E:\4805\p3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas_3._2.Form1.resources
+E:\4805\p3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas_3._2.Properties.Resources.resources
+E:\4805\p3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas 3.2.csproj.GenerateResource.cache
+E:\4805\p3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas 3.2.csproj.CoreCompileInputs.cache
+E:\4805\p3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas 3.2.exe
+E:\4805\p3\Tugas 3.2\Tugas 3.2\obj\Debug\Tugas 3.2.pdb
